@@ -1,0 +1,13 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#mycanvas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid pink;
+}
